@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Fahad Islam
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://twitter.com/srs_fahad/header_photo)
 
 I am a junior Frontend Developer . I love to code and i enjoy hard project to slove them. 
 
